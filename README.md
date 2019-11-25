@@ -1,0 +1,2 @@
+# varyanideep
+Clinical Data Management System it is like a tool of managing &amp; storing high quality data generated in clinical trial. Clinical Data Management decrease the time of maintaining the data from evolution to marketing hence it is a very important part of clinical trial. Clinical research is a side-stream of life sciences. Clinical trials are the main module of clinical research. It regulates the safety and capability of medicines, equipment, and diagnostic products etc. prior to release in the market. 
